@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'Spotifybbb_bot')
 API_ID = int(environ.get('API_ID', '26177254'))
 API_HASH = environ.get('API_HASH', '4051215e417f1f99357e362c2ed158a8')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7889793499:AAHq1VhesPib_W4FDbMDVdO_rw08gezU1uw")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7889793499:AAHq1VhesPab_AjauxubMDVdO_rw08gezU0uw")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
